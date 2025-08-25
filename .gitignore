@@ -1,0 +1,6 @@
+env/              # Virtual environment folder
+__pycache__/      # Python bytecode
+*.pyc             # Compiled Python files
+.ipynb_checkpoints/  # Jupyter checkpoints
+data/checkpoints/ # Dataset checkpoints
+*.csv             # Avoid accidental CSV commits (optional, keep if needed)
